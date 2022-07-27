@@ -49,3 +49,4 @@ app.*.map.json
 # Env files
 .env.local
 .env.production
+.env
