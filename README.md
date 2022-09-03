@@ -1,4 +1,4 @@
-# close_eat
+# Close Eat
 
 A new Flutter project.
 

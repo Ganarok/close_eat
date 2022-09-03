@@ -47,5 +47,8 @@
 		<true/>
 		<key>UIStatusBarHidden</key>
 		<false/>
+		<key>NSLocationWhenInUseUsageDescription</key>
+		<string>$(PRODUCT_BUNDLE_IDENTIFIER) would like to access your location</string>
+		<key>UIBackgroundModes</key>
 	</dict>
 </plist>
